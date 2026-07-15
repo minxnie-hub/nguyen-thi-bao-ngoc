@@ -1,27 +1,23 @@
 # Nguồn nội dung
 
-Website này giữ nguyên phong cách của bản redesign cũ, nhưng các câu mô tả cá nhân đã được giới hạn về nội dung có trong CV và deck được cung cấp.
+## CV đang sử dụng
+Website đang nhúng file `assets/Nguyen-Thi-Bao-Ngoc-CV.pdf`, được thay thế từ file `cv mới update.pdf` do người dùng cung cấp.
 
-## Hero và hồ sơ
-Nguồn: `CV - Intern Marketing - Nguyễn Thị Bảo Ngọc.pdf`
+Các thông tin đã đồng bộ từ CV mới:
+- Vị trí: Thực Tập Sinh Marketing.
+- Học vấn: Đại học Văn Lang, niên khóa 2023–2026.
+- Chuyên ngành: Quản trị thương hiệu - Marketing.
+- GPA tổng: 3.13.
+- Bad Rabbit: 09/2024–12/2024, GPA 3.2/4.0.
+- L’Oréal: 05/2025–07/2025, GPA 3.4/4.0, sự kiện 100 khách mời.
+- Sagota: 05/2025–07/2025, GPA 3.56/4.0.
+- Petify: 09/2025–12/2025, GPA 3.48/4.0.
+- Kỹ năng, điểm mạnh và mục tiêu nghề nghiệp được lấy từ CV mới.
 
-- Marketing Intern.
-- Sinh viên năm 3 ngành Marketing.
-- Nền tảng về Marketing, nghiên cứu thị trường và hành vi người tiêu dùng.
-- Đại học Văn Lang, niên khóa 2023–2026, GPA 3.13.
-- Mục tiêu nghề nghiệp, điểm mạnh và kỹ năng.
+## Nội dung dự án khác
+Coolmate, Cỏ Mềm và Gong Cha tiếp tục sử dụng nội dung từ các deck dự án đã cung cấp trước đó.
 
-## Dự án
-- Bad Rabbit: vai trò lấy từ CV; hình ảnh và đầu ra lấy từ deck IMC.
-- Coolmate: phần việc lấy từ bảng phân công trong deck Social Media.
-- Cỏ Mềm: phần việc lấy từ bảng phân công trong deck Chiến lược Marketing.
-- Sagota: vai trò lấy từ CV; hình ảnh và đầu ra lấy từ deck CRM.
-- Petify: vai trò lấy từ CV; hình ảnh và đầu ra lấy từ deck Brand.
-- Gong Cha: chỉ ghi là thành viên nhóm vì tài liệu không phân tách vai trò cá nhân.
-
-## Nội dung đã xóa
-- “Tò mò với hành vi khách hàng.”
-- “Thích biến dữ liệu thành hướng đi rõ ràng.”
-- “Quan sát kỹ, làm rõ vấn đề, rồi mới đề xuất.”
-
-Các câu trên là copy biên tập, không phải nội dung nguyên gốc trong hồ sơ.
+## Quy tắc biên tập
+- Không thêm thành tích hoặc số liệu ngoài CV/deck.
+- Các ghi chú cảnh báo dài đã được bỏ khỏi giao diện.
+- Ảnh bìa trong popup dùng `object-fit: contain` để không bị cắt chữ.

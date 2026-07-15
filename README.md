@@ -1,19 +1,18 @@
 # Nguyễn Thị Bảo Ngọc | Marketing Portfolio
 
 ## Cách xem
-Mở `index.html` bằng Chrome, Edge, Firefox hoặc Safari.
+Giải nén toàn bộ thư mục và mở `index.html` bằng Chrome, Edge, Firefox hoặc Safari.
+
+## Các cập nhật trong bản này
+- Ảnh bìa trong popup hiển thị nguyên tỉ lệ, không cắt mất chữ.
+- Đã bỏ các khối ghi chú dài khỏi giao diện.
+- Đã thay CV bằng bản mới do người dùng cung cấp.
+- Đã cập nhật chuyên ngành, GPA, kỹ năng và thông tin dự án theo CV mới.
+- Đã thêm liên kết xem deck cho các dự án có link trong CV.
 
 ## Cấu trúc
-- `index.html`: cấu trúc trang
-- `styles.css`: hệ thống giao diện responsive
-- `script.js`: dữ liệu case study và hộp thoại chi tiết
-- `assets/`: CV, ảnh chân dung và hình dự án
-
-## Nguyên tắc nội dung
-- Website chỉ highlight các slide quan trọng, không đưa toàn bộ deck lên.
-- Vai trò cá nhân chỉ ghi theo CV hoặc bảng phân công trong tài liệu.
-- Dự án nhóm được ghi rõ là academic team project.
-- Font dùng font hệ thống, không phụ thuộc Google Fonts nên mở offline không bị lỗi font.
-
-## Đưa website lên mạng
-Có thể kéo toàn bộ thư mục lên Netlify Drop, Vercel, GitHub Pages hoặc hosting tĩnh.
+- `index.html`: cấu trúc trang.
+- `styles.css`: giao diện responsive.
+- `script.js`: dữ liệu case study và popup chi tiết.
+- `assets/`: CV, ảnh chân dung và hình dự án.
+- `CONTENT-SOURCES.md`: danh sách nguồn dùng để đối chiếu nội dung.

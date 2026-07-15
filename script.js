@@ -5,22 +5,26 @@ const projects = [
     title: 'Bad Rabbit',
     subtitle: 'Valentine IMC Campaign',
     type: 'IMC · Fashion',
-    roleShort: 'Ý tưởng social, nội dung và hỗ trợ TVC',
-    summary: 'Kế hoạch truyền thông Valentine với key message, hướng nội dung social và TVC concept.',
-    role: 'Lên ý tưởng social, viết content và hỗ trợ quay dựng TVC.',
-    evidence: 'Vai trò được ghi trong CV.',
-    scope: 'Bài tập học thuật theo nhóm · 09/2024 - 12/2024',
-    context: 'Đề bài tập trung quảng bá sản phẩm Bad Rabbit trong mùa Valentine, hướng tới nhóm khách hàng trẻ yêu phong cách streetwear pha nét dễ thương.',
+    roleShort: 'Ý tưởng social, viết content và hỗ trợ TVC',
+    summary: 'Lập kế hoạch IMC toàn diện cho bộ sưu tập đôi Valentine của Bad Rabbit với key message “ĐI ĐÔI KHẮP PHỐ, ĐÁNG IU KHẮP NƠI.”',
+    scope: 'Dự án học thuật theo nhóm',
+    meta: [
+      ['Vai trò', 'Lên ý tưởng social, viết content, hỗ trợ quay dựng TVC.'],
+      ['Thời gian', '09/2024 – 12/2024'],
+      ['GPA học phần', '3.2/4.0']
+    ],
+    context: 'Dự án xây dựng kế hoạch truyền thông IMC cho bộ sưu tập đôi Valentine của thương hiệu streetwear Bad Rabbit.',
     contribution: [
-      'Lên ý tưởng cho nội dung social.',
-      'Viết content trong kế hoạch truyền thông.',
-      'Hỗ trợ quá trình quay dựng TVC theo mô tả trong CV.'
+      'Lên ý tưởng social.',
+      'Viết content.',
+      'Hỗ trợ quay dựng TVC.'
     ],
     outputs: [
-      'Key message “Đi đôi khắp phố, đáng iu khắp nơi”.',
-      'Cấu trúc ba giai đoạn Trigger – Engage – Amplify.',
-      'Storyboard TVC và demo social post trong deck nhóm.'
+      'Kế hoạch IMC toàn diện cho bộ sưu tập đôi Valentine.',
+      'Key message “ĐI ĐÔI KHẮP PHỐ, ĐÁNG IU KHẮP NƠI.”',
+      'Storyboard TVC và demo social post trong deck dự án.'
     ],
+    detailUrl: 'https://canva.link/c3o9lmb4mqw8uxo',
     images: [
       ['bad-rabbit-1.webp', 'Key message của chiến dịch.'],
       ['bad-rabbit-2.webp', 'Storyboard TVC trong deck dự án.'],
@@ -35,17 +39,20 @@ const projects = [
     type: 'Social Media · Fashion',
     roleShort: 'Phân tích thương hiệu, SMART và social audit',
     summary: 'Phân tích nội bộ thương hiệu và thiết lập mục tiêu SMART cho Essential Tee.',
-    role: 'Thực hiện nội dung phần 2 và phần 3 theo bảng phân công.',
-    evidence: 'Vai trò được ghi trong bảng phân công của nhóm.',
-    scope: 'Bài tập học thuật theo nhóm',
-    context: 'Dự án xây dựng kế hoạch Social Media cho sản phẩm Essential Tee của Coolmate, trong bối cảnh nội dung basic wear dễ lặp lại và cạnh tranh mạnh trên nền tảng số.',
+    scope: 'Dự án học thuật theo nhóm',
+    meta: [
+      ['Vai trò', 'Thực hiện nội dung phần 2 và phần 3.'],
+      ['Hạng mục', 'Phân tích thương hiệu · SMART · Social audit'],
+      ['Hình thức', 'Làm việc theo nhóm']
+    ],
+    context: 'Dự án xây dựng kế hoạch Social Media cho sản phẩm Essential Tee của Coolmate.',
     contribution: [
-      'Phần 2: phân tích nội bộ doanh nghiệp, nhận diện và tính cách thương hiệu.',
-      'Phần 3: mục tiêu SMART và social media audit.'
+      'Phân tích nội bộ doanh nghiệp, nhận diện và tính cách thương hiệu.',
+      'Xây dựng mục tiêu SMART và social media audit.'
     ],
     outputs: [
       'Brand positioning và product levels.',
-      'Mục tiêu tăng traffic từ social trong khung 6 tháng được trình bày theo SMART.',
+      'Mục tiêu tăng traffic từ social trong khung 6 tháng theo SMART.',
       'Đánh giá vai trò, tần suất và nội dung trên các nền tảng social.'
     ],
     images: [
@@ -62,18 +69,21 @@ const projects = [
     type: 'Strategy · Beauty',
     roleShort: 'Chiến lược Marketing và thuyết trình',
     summary: 'Phân tích và đề xuất chiến lược Marketing cho Cỏ Mềm Homelab tại TP.HCM.',
-    role: 'Tham gia xây dựng chiến lược Marketing và thuyết trình.',
-    evidence: 'Vai trò được ghi trong bảng phân công của nhóm.',
-    scope: 'Bài tập học thuật theo nhóm',
+    scope: 'Dự án học thuật theo nhóm',
+    meta: [
+      ['Vai trò', 'Tham gia xây dựng chiến lược Marketing và thuyết trình.'],
+      ['Hạng mục', 'Phân tích chiến lược · Marketing Mix'],
+      ['Hình thức', 'Làm việc theo nhóm']
+    ],
     context: 'Bài nghiên cứu đánh giá bối cảnh, khách hàng và vị thế cạnh tranh của thương hiệu mỹ phẩm thiên nhiên Cỏ Mềm Homelab.',
     contribution: [
       'Tham gia xây dựng phần chiến lược Marketing.',
       'Thuyết trình nội dung theo bảng phân công của nhóm.'
     ],
     outputs: [
-      'Target audience và customer insight cho nhóm khách hàng quan tâm sản phẩm lành tính.',
+      'Target audience và customer insight.',
       'Phân tích vị thế chiến lược và lợi thế cạnh tranh.',
-      'Đề xuất định hướng Marketing Mix trong deck nhóm.'
+      'Đề xuất định hướng Marketing Mix trong deck dự án.'
     ],
     images: [
       ['comem-1.webp', 'Key insight được trình bày trong dự án.'],
@@ -87,22 +97,26 @@ const projects = [
     title: 'Sagota',
     subtitle: 'CRM Plan',
     type: 'CRM · Beverage',
-    roleShort: 'Phân tích khách hàng, persona và CRM',
-    summary: 'Từ khảo sát khách hàng đến định hướng CRM đa kênh và lộ trình triển khai.',
-    role: 'Phân tích khách hàng, xây dựng chân dung và đề xuất CRM đa kênh.',
-    evidence: 'Vai trò được ghi trong CV.',
-    scope: 'Bài tập học thuật theo nhóm · 05/2025 - 07/2025',
-    context: 'Nhóm thực hiện khảo sát online hơn 100 người từ 18–45 tuổi để đánh giá nhận biết, ý định mua lại và nhu cầu chăm sóc khách hàng với Sagota.',
+    roleShort: 'Phân tích khách hàng, persona và CRM đa kênh',
+    summary: 'Hoàn thiện kế hoạch CRM nhằm duy trì và tăng giá trị khách hàng.',
+    scope: 'Dự án học thuật theo nhóm',
+    meta: [
+      ['Vai trò', 'Phân tích khách hàng, xây dựng chân dung và đề xuất CRM đa kênh.'],
+      ['Thời gian', '05/2025 – 07/2025'],
+      ['GPA học phần', '3.56/4.0']
+    ],
+    context: 'Dự án Quản trị quan hệ khách hàng cho Sagota, tập trung vào phân tích khách hàng và xây dựng định hướng CRM đa kênh.',
     contribution: [
       'Phân tích khách hàng.',
       'Xây dựng chân dung khách hàng.',
-      'Đề xuất định hướng CRM đa kênh theo mô tả trong CV.'
+      'Đề xuất CRM đa kênh.'
     ],
     outputs: [
-      'Tổng hợp vấn đề về mức độ gắn bó và nhận biết chương trình hội viên.',
-      'Định hướng tích hợp email, hotline, chatbot và loyalty program.',
-      'Lộ trình triển khai CRM 12 tháng trong deck nhóm.'
+      'Kế hoạch CRM nhằm duy trì và tăng giá trị khách hàng.',
+      'Định hướng tích hợp các kênh chăm sóc khách hàng.',
+      'Lộ trình triển khai CRM trong deck dự án.'
     ],
+    detailUrl: 'http://canva.com/design/DAGr_3Kckig/CrIsCVyah6MPV9oFFhKCgA/edit?utm_content=DAGr_3Kckig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton',
     images: [
       ['sagota-1.webp', 'Kết quả nghiên cứu thị trường được nhóm tổng hợp.'],
       ['sagota-2.webp', 'Định hướng CRM đa kênh.'],
@@ -115,22 +129,26 @@ const projects = [
     title: 'Petify',
     subtitle: 'Brand Strategy & Identity',
     type: 'Branding · Pet Care',
-    roleShort: 'Nghiên cứu, định vị và nhận diện',
-    summary: 'Xây dựng định vị và hệ thống nhận diện cho ý tưởng dịch vụ spa thú cưng di động.',
-    role: 'Nghiên cứu khách hàng, xây dựng định vị và nhận diện thương hiệu.',
-    evidence: 'Vai trò được ghi trong CV.',
-    scope: 'Bài tập học thuật theo nhóm · 09/2025 - 12/2025',
-    context: 'Petify được phát triển như một concept dịch vụ grooming tại nhà, nhấn mạnh tính an toàn, tiện lợi và sự an tâm cho chủ nuôi.',
+    roleShort: 'Nghiên cứu, định vị và nhận diện thương hiệu',
+    summary: 'Hoàn thiện concept thương hiệu dịch vụ Petify.',
+    scope: 'Dự án học thuật theo nhóm',
+    meta: [
+      ['Vai trò', 'Nghiên cứu khách hàng, xây dựng định vị và nhận diện thương hiệu.'],
+      ['Thời gian', '09/2025 – 12/2025'],
+      ['GPA học phần', '3.48/4.0']
+    ],
+    context: 'Petify được phát triển như một concept dịch vụ chăm sóc thú cưng, tập trung vào định vị và nhận diện thương hiệu.',
     contribution: [
       'Nghiên cứu khách hàng.',
-      'Tham gia xây dựng định vị thương hiệu.',
-      'Tham gia phát triển hệ thống nhận diện theo mô tả trong CV.'
+      'Xây dựng định vị thương hiệu.',
+      'Phát triển nhận diện thương hiệu.'
     ],
     outputs: [
+      'Concept thương hiệu dịch vụ.',
       'Segmentation – Targeting – Positioning.',
-      'Tên thương hiệu, logo direction, slogan và ứng dụng nhận diện.',
-      'Kế hoạch công cụ IMC và KPI trong deck nhóm.'
+      'Tên thương hiệu, logo direction và các ứng dụng nhận diện.'
     ],
+    detailUrl: 'https://www.canva.com/design/DAG3JzTAxZA/2HCoDQafSO6Wo_P_I_I9Kg/edit',
     images: [
       ['petify-1.webp', 'STP và định vị thương hiệu.'],
       ['petify-2.webp', 'Brand element và ý nghĩa tên.'],
@@ -143,15 +161,17 @@ const projects = [
     title: 'Gong Cha',
     subtitle: 'Crisis Communication',
     type: 'Crisis Planning · F&B',
-    roleShort: 'Dự án nhóm, chưa tách vai trò',
+    roleShort: 'Phân tích tình huống và kế hoạch xử lý',
     summary: 'Phân tích tình huống và đề xuất lộ trình phản ứng, ổn định và phục hồi danh tiếng.',
-    role: 'Tài liệu không phân tách phần việc cá nhân.',
-    evidence: 'Tài liệu chỉ xác nhận Nguyễn Thị Bảo Ngọc là thành viên nhóm, xếp loại A.',
-    scope: 'Bài tập học thuật theo nhóm',
+    scope: 'Dự án học thuật theo nhóm',
+    meta: [
+      ['Vai trò', 'Thành viên nhóm'],
+      ['Hạng mục', 'Truyền thông khủng hoảng'],
+      ['Hình thức', 'Làm việc theo nhóm']
+    ],
     context: 'Case phân tích vụ việc nguyên liệu mang nhãn Gong Cha bị thu giữ tại một cơ sở không thuộc hệ thống, dẫn đến hiểu nhầm và lan truyền thông tin tiêu cực.',
     contribution: [
-      'Tài liệu chỉ ghi Nguyễn Thị Bảo Ngọc là thành viên nhóm.',
-      'Không có căn cứ để quy các hạng mục cụ thể cho cá nhân.'
+      'Tham gia thực hiện dự án nhóm về xử lý khủng hoảng truyền thông.'
     ],
     outputs: [
       'Timeline phản ứng 0–48 giờ.',
@@ -196,12 +216,17 @@ let opener = null;
 const pageBaseUrl = location.href.split('#')[0];
 
 function renderCase(project) {
+  const detailAction = project.detailUrl
+    ? `<a class="case-external-link" href="${project.detailUrl}" target="_blank" rel="noopener">Xem deck đầy đủ <span aria-hidden="true">↗</span></a>`
+    : '';
+
   caseContent.innerHTML = `
     <section class="case-hero">
       <div class="case-heading">
         <p class="case-eyebrow">${project.type} · ${project.scope}</p>
         <h2 id="case-title">${project.title}<br><span>${project.subtitle}</span></h2>
         <p class="case-summary">${project.summary}</p>
+        ${detailAction}
       </div>
       <div class="case-cover">
         <img src="assets/projects/${project.id}-cover.webp" width="1500" height="844" alt="Ảnh bìa dự án ${project.title}">
@@ -209,9 +234,7 @@ function renderCase(project) {
     </section>
 
     <section class="case-meta" aria-label="Thông tin dự án">
-      <div><span>Phạm vi đóng góp</span><strong>${project.role}</strong></div>
-      <div><span>Căn cứ</span><strong>${project.evidence}</strong></div>
-      <div><span>Hình thức</span><strong>${project.scope}</strong></div>
+      ${project.meta.map(([label, value]) => `<div><span>${label}</span><strong>${value}</strong></div>`).join('')}
     </section>
 
     <section class="case-copy">
@@ -221,12 +244,12 @@ function renderCase(project) {
           <p>${project.context}</p>
         </div>
         <div class="case-block">
-          <h3>Phần việc được xác nhận</h3>
+          <h3>Phần việc</h3>
           <ul class="case-list">${project.contribution.map((item) => `<li>${item}</li>`).join('')}</ul>
         </div>
       </div>
       <div class="case-block">
-        <h3>Đầu ra nổi bật trong deck</h3>
+        <h3>Đầu ra dự án</h3>
         <ol class="output-list">${project.outputs.map((item) => `<li>${item}</li>`).join('')}</ol>
       </div>
     </section>
@@ -234,7 +257,7 @@ function renderCase(project) {
     <section class="case-gallery">
       <div class="case-gallery-head">
         <h3>Các slide được chọn</h3>
-        <p>Chỉ giữ các trang hỗ trợ trực tiếp cho nội dung case study, không đưa toàn bộ deck lên website.</p>
+        <p>Một số trang trình bày tiêu biểu của dự án.</p>
       </div>
       <div class="case-gallery-grid">
         ${project.images.map(([image, caption]) => `
@@ -245,8 +268,6 @@ function renderCase(project) {
         `).join('')}
       </div>
     </section>
-
-    <p class="truth-note"><strong>Ghi chú:</strong> Vai trò cá nhân chỉ được mô tả theo CV hoặc bảng phân công có trong tài liệu. Hình ảnh slide là sản phẩm chung của nhóm, trừ khi tài liệu xác nhận khác.</p>
   `;
 }
 
